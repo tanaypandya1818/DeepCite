@@ -1,0 +1,7 @@
+colorama
+requests
+sentence-transformers
+rank_bm25
+faiss-cpu
+numpy
+torch>=1.6.0
