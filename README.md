@@ -134,6 +134,8 @@ When you run the application, it will:
 - Press `s` to search for a new query
 - Press `q` to quit the program
 
+> ⚠️ **Warning**: If you make multiple requests in a very short period of time, you may encounter a rate limit error from the Semantic Scholar API. Please wait a few seconds between searches to avoid this issue.
+
 ## 📊 Example
 
 **Input Query**: "Transformer models for natural language processing"
