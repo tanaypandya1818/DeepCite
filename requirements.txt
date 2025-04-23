@@ -1,5 +1,0 @@
-requests
-sentence-transformers
-numpy
-faiss-cpu
-rank-bm25
